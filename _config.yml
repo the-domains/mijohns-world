@@ -12,3 +12,8 @@ color:
     - '#FF8C00'
     - '#04756F'
 name: Mijohn's World
+navigation:
+  - id: 'http://www.bunewsservice.com/jo15'
+    url: 'http://www.bunewsservice.com/jo15'
+    name: Our Site
+    type: external
